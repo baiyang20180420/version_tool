@@ -1,2 +1,2 @@
 # version_tool
-a
+2

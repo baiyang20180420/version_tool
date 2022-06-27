@@ -11,4 +11,5 @@ func (chi *Chi) Chi_echo() {
 	fmt.Println(chi.Echo())
 	fmt.Println("c1")
 	fmt.Println("c100")
+	fmt.Println("c200")
 }

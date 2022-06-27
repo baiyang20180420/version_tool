@@ -13,5 +13,6 @@ func (par *Par) Echo() bool {
 	fmt.Println("p400 ...")
 	fmt.Println("p500 ...")
 	fmt.Println("p600 ...")
+	fmt.Println("p700 ...")
 	return true
 }

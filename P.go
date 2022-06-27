@@ -7,6 +7,6 @@ type Par struct {
 
 func (par *Par) Echo() bool {
 	fmt.Println("parent ...")
-	fmt.Println("p1 ...")
+	fmt.Println("p100 ...")
 	return true
 }

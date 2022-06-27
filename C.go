@@ -10,4 +10,5 @@ func (chi *Chi) Chi_echo() {
 	fmt.Println("chile ...")
 	fmt.Println(chi.Echo())
 	fmt.Println("c1")
+	fmt.Println("c100")
 }

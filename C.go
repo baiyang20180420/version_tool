@@ -14,4 +14,6 @@ func (chi *Chi) Chi_echo() {
 	fmt.Println("m3")
 	fmt.Println("m4")
 	fmt.Println("m5")
+	fmt.Println("m6")
+	fmt.Println("m7")
 }

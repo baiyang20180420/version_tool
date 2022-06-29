@@ -9,4 +9,7 @@ type Chi struct {
 func (chi *Chi) Chi_echo() {
 	fmt.Println("chile ...")
 	fmt.Println(chi.Echo())
+	fmt.Println("m1")
+	fmt.Println("m2")
+	fmt.Println("m3")
 }
